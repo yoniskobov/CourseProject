@@ -1,0 +1,16 @@
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\bin\Debug\CourseProject.DataAccess.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\bin\Debug\CourseProject.DataAccess.pdb
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\bin\Debug\CourseProject.DB.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\bin\Debug\CourseProject.DB.pdb
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\bin\Debug\CourseProject.DB.dll.config
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\obj\Debug\CourseProject.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\obj\Debug\CourseProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\obj\Debug\CourseProject.DataAccess.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\obj\Debug\CourseProject.DataAccess.pdb
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\bin\Debug\CourseProject.DataAccess.dll.config
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\obj\Debug\CourseProject.DataAccess.Migrations.initial.resources
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DataAccess\obj\Debug\CourseProject.DataAccess.csproj.GenerateResource.Cache

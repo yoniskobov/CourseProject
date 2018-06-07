@@ -1,0 +1,156 @@
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\ApplicationInsights.config
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\CourseProject.Web.dll.config
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\CourseProject.Web.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\CourseProject.Web.pdb
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Antlr3.Runtime.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\CourseProject.DataAccess.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\CourseProject.DB.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Newtonsoft.Json.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.Helpers.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.Mvc.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.Optimization.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.Razor.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.WebPages.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\WebGrease.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\EntityFramework.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\CourseProject.DataAccess.pdb
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\CourseProject.DB.pdb
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\CourseProject.DB.dll.config
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.Helpers.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.Mvc.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.Optimization.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.Razor.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.WebPages.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Newtonsoft.Json.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\EntityFramework.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\obj\Debug\CourseProject.Web.csprojResolveAssemblyReference.cache
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\obj\Debug\CourseProject.Web.csproj.CoreCompileInputs.cache
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\obj\Debug\CourseProject.Web.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\obj\Debug\CourseProject.Web.pdb
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\CourseProject.DataAccess.dll.config
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\ApplicationInsights.config
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\CourseProject.Web.dll.config
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\CourseProject.Web.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\CourseProject.Web.pdb
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Antlr3.Runtime.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\CourseProject.DataAccess.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\CourseProject.DB.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\EntityFramework.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Newtonsoft.Json.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.Helpers.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.Mvc.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.Optimization.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.Razor.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.WebPages.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\WebGrease.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\CourseProject.DataAccess.pdb
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\CourseProject.DataAccess.dll.config
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\CourseProject.DB.pdb
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\CourseProject.DB.dll.config
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\EntityFramework.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.Helpers.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.Mvc.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.Optimization.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.Razor.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.WebPages.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Newtonsoft.Json.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\obj\Debug\CourseProject.Web.csprojResolveAssemblyReference.cache
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\obj\Debug\CourseProject.Web.csproj.CoreCompileInputs.cache
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\obj\Debug\CourseProject.Web.dll
+C:\Users\Yoni\source\repos\CourseProject_New\CourseProject.Web\obj\Debug\CourseProject.Web.pdb
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\ApplicationInsights.config
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\CourseProject.Web.dll.config
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\CourseProject.Web.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\CourseProject.Web.pdb
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Antlr3.Runtime.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\CourseProject.DataAccess.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\CourseProject.DB.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\EntityFramework.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Newtonsoft.Json.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.Helpers.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.Mvc.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.Optimization.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.Razor.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.WebPages.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\WebGrease.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\CourseProject.DataAccess.pdb
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\CourseProject.DataAccess.dll.config
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\CourseProject.DB.pdb
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\CourseProject.DB.dll.config
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\EntityFramework.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.Helpers.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.Mvc.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.Optimization.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.Razor.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.WebPages.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Newtonsoft.Json.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\obj\Debug\CourseProject.Web.csprojResolveAssemblyReference.cache
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\obj\Debug\CourseProject.Web.csproj.CoreCompileInputs.cache
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\obj\Debug\CourseProject.Web.dll
+C:\Users\Yoni\source\repos\CourseProject_New ako opleskam\CourseProject.Web\obj\Debug\CourseProject.Web.pdb

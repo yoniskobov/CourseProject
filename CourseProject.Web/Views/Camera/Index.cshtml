@@ -1,0 +1,15 @@
+﻿@using CourseProject.Web.Models
+@model List<CamerasViewModel>
+@{
+    ViewBag.Title = "списък на йонислав";
+}
+<div class="row">
+@foreach (var c in Model)
+{ 
+    <div class="row">
+        <div class="col-md-3 product-container">
+            <h4>@c.Name</h4>
+        </div>
+    </div>
+}
+</div>

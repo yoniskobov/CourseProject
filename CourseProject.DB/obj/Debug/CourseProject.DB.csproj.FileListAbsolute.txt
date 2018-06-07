@@ -1,0 +1,11 @@
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DB\bin\Debug\CourseProject.DB.dll.config
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DB\bin\Debug\CourseProject.DB.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DB\bin\Debug\CourseProject.DB.pdb
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DB\bin\Debug\EntityFramework.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DB\bin\Debug\EntityFramework.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DB\obj\Debug\CourseProject.DB.csproj.CoreCompileInputs.cache
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DB\obj\Debug\CourseProject.DB.dll
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DB\obj\Debug\CourseProject.DB.pdb
+C:\Users\Yoni\source\repos\CourseProject\CourseProject.DB\obj\Debug\CourseProject.DB.csprojResolveAssemblyReference.cache
